@@ -23,7 +23,8 @@ Laravel Framework 8.83.27
 
 
 ## Tela do Sistema
- ![prova-php-ist](gestao_pedidos/public/img/meusistema.png)
+![meusistema](https://user-images.githubusercontent.com/20956815/216999178-c02cb233-65af-4268-8f89-f6a37699b2eb.png)
+
 
 ## License
 
