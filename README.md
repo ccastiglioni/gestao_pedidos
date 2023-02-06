@@ -14,7 +14,7 @@
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Implementações Laravel
-Crud mais avançado
+Crud mais avançado, com tela de login . uso do Eloquent
 
 
 ## Versão
